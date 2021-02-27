@@ -1,10 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyCWLAw8eErPFwRAutKCIn8kBKUi6zVn4Oc",
-    authDomain: "react-airbnb-clone-3c87d.firebaseapp.com",
-    databaseURL: "https://react-airbnb-clone-3c87d.firebaseio.com",
-    projectId: "react-airbnb-clone-3c87d",
-    storageBucket: "react-airbnb-clone-3c87d.appspot.com",
-    messagingSenderId: "886352041396",
-    appId: "1:886352041396:web:49a0929acd59c4ab184ee1",
-    measurementId: "G-XENQ4BKBXD"
-  };
+  apiKey: "AIzaSyC3u5Wtk-iWqFeDzydCwFXhQoHpxUuu6Hc",
+  authDomain: "chainevents-81c3b.firebaseapp.com",
+  projectId: "chainevents-81c3b",
+  storageBucket: "chainevents-81c3b.appspot.com",
+  messagingSenderId: "1084188424587",
+  appId: "1:1084188424587:web:c559ca80d04bdda65bd78e",
+  measurementId: "G-KCVVFP9WL6",
+};
