@@ -28,7 +28,9 @@ function Header() {
         <p>Become a host</p>
         <LanguageIcon />
         <ExpandMoreIcon />
-        <Avatar />
+        <Link to="/login">
+          <Avatar />
+        </Link>
       </div>
     </div>
   );
